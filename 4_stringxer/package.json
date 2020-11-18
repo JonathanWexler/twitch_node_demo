@@ -1,0 +1,8 @@
+{
+  "name": "stringxer",
+  "version": "1.0.1",
+  "description": "A library to convert strings to Xs",
+  "main": "index.js",
+  "author": "Jon Wexler",
+  "license": "ISC"
+}
